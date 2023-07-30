@@ -1,6 +1,6 @@
-<h1 align='center'>Generative AI Chatbot Course</h1>
-<h2 align='center'>🖥 Building and Integrating Artificial Intelligence Chatbots and Voice Applications with Dialogflow and ChatGPT3</h2>
-<h4 align='center'><i>Talk to the future of computing.</i></h4>
+<h1 align='center'>Web Development Syllabus</h1>
+<h2 align='center'>🖥 Learn morden web technologies</h2>
+<!-- <h4 align='center'><i>Talk to the future of computing.</i></h4> -->
 
 <img src='./readme-assets/cover.png'/>
 
@@ -16,7 +16,11 @@
 
  <!-- Google Assistant apps you will learn latest technologies Google Dialoglfow v2,  -->
 
+**incomplete for now**
+
 ## Objective
+
+This syllabus will cover real life web development in progressive manner.
 
 In this course you will learn how to make state of the art AI Chatbots with `OP stack  (OpenAI + Pinecone)`<br>
 [ChatGPT](https://openai.com/blog/chatgpt) is a new kind of `AI as a Service (AIaaS)` which is gaining significant traction. In the foreseeable future, only large corporations will be responsible for creating their own AI models, while smaller entities will rely on pre-trained, general-purpose models such as ChatGPT. As an AI developer and chatbot expert, I opine that while ChatGPT may not yet be at the peak of its potential, it is poised to make substantial progress in the near future.
@@ -33,24 +37,34 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
 
 ### Overview
 
-- **`Git`**, **`HTML`** and **`CSS`** overview
-- **`JavaScript`** (ES6+) &nbsp;&nbsp;&nbsp;&nbsp;~~No Python~~
+- **`Git and Github`**
+- **`HTML 5`**
+- **`CSS 3`**
+- **`JavaScript`** (ES6+) with ES module (.mjs)
 - **`NodeJS`**, **`ExpressJS`**
-- **`MongoDB`**
-- **`DialogFlow`**
-- **`OpenAI's ChatGPT API (fine-tuning)`**
-- **`Whisper API`**
-- **`Pinecone (Vector database)`**
+- **`MongoDB Database`**
+- **`React JS`**
+- **`PWA`**
+- **`Socket.IO`**
+- **``**
 
 ### Details
 
-1. In weak one we will have an overview of :
+1. #### HTML
 
+    In weak one we will have an overview of :
     - [`Git and Github`](https://rogerdudler.github.io/git-guide/). [(Video)](https://youtu.be/vbH9gMqJ5GQ)
     - [`HTML`](https://youtu.be/HcOc7P5BMi4) and [`CSS`](https://youtu.be/Edsxf_NBFrw).
       (1 week) [Book Link](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf)
 
-1. Exploring the possibilities of future with [`Apple's Vision Pro`](https://www.youtube.com/live/GYkq9Rgoj8E?feature=share) and ChatGPT.
+1. #### CSS
+
+- Basic CSS
+- Intro to flexbox
+- Intro to tailwind CSS (as a replacement of bootstrap)
+  - [why tailwind ?](https://www.youtube.com/watch?v=CLkxRnRQtDE)
+  - how tailwind: [official docs](https://tailwindcss.com/docs/)
+
 1. [`JavaScript`](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR) programming fundamental (ES6+) (3 weeks)
     |   |   |
     | --- | --- |
@@ -95,48 +109,25 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
 
 1. [`ReactJS`](https://daveceddia.com/react-getting-started-tutorial/) Integration (2 weeks)
     - Basic introduction to react
-    - Chatbot popup using react-chat-widget in existing react.js web app
+    - history and introduction to React
     - CRUD operation in ReactJs
     - Chat app with ReactJs.
     - React.js is not fully covered in this course!
 
-1. `Dialogflow` V2 (4 weeks)
+1. Realtime operations with `Socket.IO` (4 weeks)
     - Intent
     - Entity
-    - Fulfilment
-    - Context
-1. 3 Real life Chatbots Integrations for hands-on practice
 
-    - Hotel booking Assistant
-    - Online Store Assistant
-    - Weather Assistant
+1. #### PWA
+
+    - intro to manifest file
+    - intro to service worker
+    - generating those files with microsoft pwa builder
+    - adding PWA capabilities into react app such as install option
+    - building store ready .apk android app with PWA
+    - building store ready iphone app with PWA
 
 1. Introduction to the `OpenAI` Completion Model and Completion Endpoint.
-
-1. Introduction to the OpenAI Playground.
-1. How to Designing a better prompt.
-1. Using `ChatGPT` in your apps for classification, generation, transformation, translation, and conversion.
-1. Building Chatbots on top of ChatGPT3.
-1. Supercharging `Dialogflow` Chatbots with ChatGPT webhook.
-1. Assembling and uploading training data into ChatGPT.
-1. `Fine-tuning` techniques.
-1. Introduction to the JSONL document.
-1. Introduction to OpenAI CLI tools.
-1. Building your own `fine-tuned model`.
-1. Entity extraction.
-1. Introduction to hyper-parameters.
-1. Using existing fine-tuned models.
-1. Further fine-tuning on existing fine-tuned models.
-1. Validating fine-tuned models for weight and biases.
-1. [`Whisper API`](https://github.com/openai/whisper) is a breakthrough, Whisper is real and I have used it. It's far far better then google speech to text it understand sentences that has two languages in it, previously you had to download the model and run on your machine with 64gb ram memory but now you just have to pay as you go.
-
-1. [Pinecone's](https://www.pinecone.io/) vector database
-
-    - What is [`Word Embedding?`](https://youtu.be/5MaWmXwxFNQ)
-    - It's Long-Term Memory for AI
-    - Unlock powerful vector search with Pinecone
-    - Intuitive to use, designed for speed, and effortlessly scalable.
-    - Transform your business with high-performance AI applications. Pinecone's vector database is fully-managed, developer-friendly, and easily scalable.
 
 **AI as a service is the future of AI**
 
