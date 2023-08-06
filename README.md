@@ -54,20 +54,31 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
 
 1. ### HTML
 
-    ||
-    |-|
-    |Intro to HTML|
-    |Role of HTML, CSS and Javascript in a webpage|
-    |Elements and tags|
-    |\<head\> and \<body\>|
-    |Structural Markup and Semantic Markup|
-    |Screen Readers and SEO|
+    [Book Link](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf)
 
-     [Book Link](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf)
+   |S.No |Topics||
+   |- |-|-|
+   |1. |How the Web Works| Page 7-10|
+   |2. |Intro to HTML|Chapter 1|
+   |3. |Role of HTML, CSS and Javascript in a webpage| Page 6|
+   |4. |Elements and tags|
+   |5. |\<head\> and \<body\>|
+   |6. |Structural Markup and Semantic Markup|Page 40-50|
+   |7. |Screen Readers and SEO|
+    |8. |Lists| Chapter 3 complete|
+    <!-- |1. |Links|Chapter 3 complete|
+    |1. |||
+    |1. |||
+    |1. ||| -->
 
-1. #### CSS
+1. ### CSS
 
 - Basic CSS
+- Color theory
+- Layout
+- Box Model
+- Grid
+- Position property
 - Intro to flexbox
 - Intro to tailwind CSS (as a replacement of bootstrap)
   - [why tailwind ?](https://www.youtube.com/watch?v=CLkxRnRQtDE)
