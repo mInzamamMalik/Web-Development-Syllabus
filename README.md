@@ -33,9 +33,7 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
 
 **Just basic Programming knowledge is required in any language,** No prior experience with Python is required, as the course focuses on JavaScript, making it accessible to a wider audience. If you are intrigued by the potential of AI-powered Chat-bots and wish to `leverage pre-trained, general-purpose models` like ChatGPT to build innovative applications, this course will provide you with the knowledge and insights to do so effectively.
 
-## Course outline
-
-### Overview
+## Course outline Overview
 
 - **`Git and Github`**
 - **`HTML 5`**
@@ -48,14 +46,24 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
 - **`Socket.IO`**
 - **``**
 
-### Details
+## Course outline Details
 
-1. #### HTML
+1. ### GIT
 
-    In weak one we will have an overview of :
     - [`Git and Github`](https://rogerdudler.github.io/git-guide/). [(Video)](https://youtu.be/vbH9gMqJ5GQ)
-    - [`HTML`](https://youtu.be/HcOc7P5BMi4) and [`CSS`](https://youtu.be/Edsxf_NBFrw).
-      (1 week) [Book Link](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf)
+
+1. ### HTML
+
+    ||
+    |-|
+    |Intro to HTML|
+    |Role of HTML, CSS and Javascript in a webpage|
+    |Elements and tags|
+    |\<head\> and \<body\>|
+    |Structural Markup and Semantic Markup|
+    |Screen Readers and SEO|
+
+     [Book Link](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf)
 
 1. #### CSS
 
