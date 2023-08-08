@@ -57,43 +57,57 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
 
 1. ### HTML 5
 
-    We will follow [this Book](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf) by Jon Duckett for HTML. Chapter 1-5,7 are important.
+    We will follow [this Book](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf) by Jon Duckett for HTML. Chapter 1-5,7,18 are important.
 
    |S.No |Topics||
    |- |-|-|
    |1. |How the Web Works| Page 7-10|
    |2. |Intro to HTML|Chapter 1|
    |3. |Role of HTML, CSS and Javascript in a webpage| Page 6|
-   |4. |Elements and tags|
-   |5. |\<head\> and \<body\>|
+   |4. |Elements and tags||
+   |5. |\<head\> and \<body\>||
    |6. |Structural Markup and Semantic Markup|Page 40-50|
-   |7. |Screen Readers and SEO|pg 191|
-    |8. |Lists| Chapter 3 complete|
-    |9. | ID and Class Attribute|Page 183-184|
-    |10. |Block and Inline Elements|Page 185-188|
-   |11| ||
-   |12|Adding Video and Audio to Your web Pages with HTML5|214,215,217,219,220|
-    <!-- |1. |Links|Chapter 3 complete|
-    |1. |||
-    |1. |||
-    |1. ||| -->
+   |7. |Screen Readers and SEO|Page 191|
+    |8. |Lists, Link, Image| Chapter 3,4,5 complete|
+    |9. |Forms| Chapter 7 complete|
+    |10. | ID and Class Attribute|Page 183-184|
+    |11. |Block and Inline Elements|Page 185-188|
+   |12.|Adding Video and Audio to Your web Pages with HTML5|Page 214,215,217,219,220|
+   |13.|How to approach building a site / WireFrames / Designing Navigation |Chapter 18 |
+    |14.|Search Engine Optimization (SEO)| (Optional) Page 479|
     Note: Flash player is outdated (some part of chapter 9)
 
 1. ### CSS 3
 
-    We will follow [this Book](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf) by Jon Duckett for CSS.
+    We will follow [this Book](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf) by Jon Duckett for CSS. Chapter 10,13 are important.
+
+    CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
 
    |S.No |Topics||
-   |- |-|-|
-   |1. |How the Web Works| Page 7-10|
+   |---|---------|-----|
+   |1. |Introducing CSS|Chapter 10: 226|
+    |1.|CSS Selectors|Page 237|
+    |1.|How Css Rules Cascade|Page 239|
+    |1.|Understanding Color|Chapter 11|
+    |1.|Text/typography|Chapter 12: 264|
+    |1.|Pseudo Classes|Page 290|
+    |1.|Box model (Internet Explorer 6 is no longer supported)|Chapter 13: Page 300-315|
+    |1.|Styling Lists, Tables & Forms|Chapter 14: 330|
+    |1.|**Layouts** (Controlling the position of elements) |Chapter 15: 358|
+   |1.|Overlapping Elements (z-index)|Page 369|
+   |1.|Floating Elements are deprecated| X |
+   |1.|Responsiveness| Page 377 |
+    |1.| Controlling size and Aligning images in CSS |Chapter 16 complete|
+   |1.|Flex Box (it's not covered in book so we will follow [this article by CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/))||
+   |1.|Grids (we will follow [this article by CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/))|Page 387|
 
+- CSS Frameworks ( Page 391 )
+  - Advantage and Disadvantage
+  - MUI vs Chakra UI
 - Basic CSS
 - Basic psychology of color and contrast
-- Layout
-- Box Model
 - Grid
 - Position property
-- Intro to flexbox
 - Intro to tailwind CSS (as a replacement of bootstrap)
   - [why tailwind ?](https://www.youtube.com/watch?v=CLkxRnRQtDE)
   - how tailwind: [official docs](https://tailwindcss.com/docs/)
