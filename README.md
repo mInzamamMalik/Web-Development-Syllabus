@@ -52,9 +52,9 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
 
     - [`Git and Github`](https://rogerdudler.github.io/git-guide/). [(Video)](https://youtu.be/vbH9gMqJ5GQ)
 
-1. ### HTML
+1. ### HTML 5
 
-    [Book Link](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf)
+    We will follow [this Book](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf) by Jon Duckett for HTML. Chapter 1-5,7 are important.
 
    |S.No |Topics||
    |- |-|-|
@@ -64,17 +64,28 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
    |4. |Elements and tags|
    |5. |\<head\> and \<body\>|
    |6. |Structural Markup and Semantic Markup|Page 40-50|
-   |7. |Screen Readers and SEO|
+   |7. |Screen Readers and SEO|pg 191|
     |8. |Lists| Chapter 3 complete|
+    |9. | ID and Class Attribute|Page 183-184|
+    |10. |Block and Inline Elements|Page 185-188|
+   |11| ||
+   |12|Adding Video and Audio to Your web Pages with HTML5|214,215,217,219,220|
     <!-- |1. |Links|Chapter 3 complete|
     |1. |||
     |1. |||
     |1. ||| -->
+    Note: Flash player is outdated (some part of chapter 9)
 
-1. ### CSS
+1. ### CSS 3
+
+    We will follow [this Book](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf) by Jon Duckett for CSS.
+
+   |S.No |Topics||
+   |- |-|-|
+   |1. |How the Web Works| Page 7-10|
 
 - Basic CSS
-- Color theory
+- Basic psychology of color and contrast
 - Layout
 - Box Model
 - Grid
