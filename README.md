@@ -75,6 +75,7 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
    |12.|Adding Video and Audio to Your web Pages with HTML5|Page 214,215,217,219,220|
    |13.|How to approach building a site / WireFrames / Designing Navigation |Chapter 18 |
     |14.|Search Engine Optimization (SEO)| (Optional) Page 479|
+
     Note: Flash player is outdated (some part of chapter 9)
 
 1. ### CSS 3
