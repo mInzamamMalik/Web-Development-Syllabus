@@ -50,7 +50,10 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
 
 1. ### GIT
 
-    - [`Git and Github`](https://rogerdudler.github.io/git-guide/). [(Video)](https://youtu.be/vbH9gMqJ5GQ)
+    - [`Git and Github` (One Video by Sir Inzamam)](https://youtu.be/vbH9gMqJ5GQ)
+    - [Teaching Git repo by Shehzad](https://github.com/shehza-d/teaching-git)
+    - [Git - the simple guide Article](https://rogerdudler.github.io/git-guide/)
+    - [Complete Git Course (Basic to Advance) by Sir Zeeshan in Urdu](https://www.youtube.com/playlist?list=PLKueo-cldy_HjRnPUL4G3pWHS7FREAizF)
 
 1. ### HTML 5
 
