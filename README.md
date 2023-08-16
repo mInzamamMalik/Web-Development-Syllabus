@@ -4,12 +4,12 @@
 
 <img src='./readme-assets/cover.png'/>
 
-|||
-|--|--|
-| Prerequisites | Basic Math and English |
+|                      |                                                          |
+| -------------------- | -------------------------------------------------------- |
+| Prerequisites        | Basic Math and English                                   |
 | Syllabus Designed by | [M. Inzamam Malik](https://www.linkedin.com/in/minzamam) |
-| Duration | 1 year |
-| Stack | `MERN Stack` |
+| Duration             | 1 year                                                   |
+| Stack                | `MERN Stack`                                             |
 
 <p align="center"><img src="https://skillicons.dev/icons?i=git,html,css,js,materialui" /><img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,express,mongodb" />
 </p>
@@ -50,57 +50,57 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
 
 1. ### GIT
 
-    - [`Git and Github` (One Video by Sir Inzamam)](https://youtu.be/vbH9gMqJ5GQ)
-    - [Teaching Git repo by Shehzad](https://github.com/shehza-d/teaching-git)
-    - [Git - the simple guide Article](https://rogerdudler.github.io/git-guide/)
-    - [Complete Git Course (Basic to Advance) by Sir Zeeshan in Urdu](https://www.youtube.com/playlist?list=PLKueo-cldy_HjRnPUL4G3pWHS7FREAizF)
+   - [`Git and Github` (One Video by Sir Inzamam)](https://youtu.be/vbH9gMqJ5GQ)
+   - [Teaching Git repo by Shehzad](https://github.com/shehza-d/teaching-git)
+   - [Git - the simple guide Article](https://rogerdudler.github.io/git-guide/)
+   - [Complete Git Course (Basic to Advance) by Sir Zeeshan in Urdu](https://www.youtube.com/playlist?list=PLKueo-cldy_HjRnPUL4G3pWHS7FREAizF)
 
 1. ### HTML 5
 
-    We will follow [this Book](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf) by Jon Duckett for HTML. Chapter 1-5,7,18 are important.
+   We will follow [this Book](<https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf>) by Jon Duckett for HTML. Chapter 1-5,7,18 are important.
 
-   |S.No |Topics||
-   |- |-|-|
-   |1. |How the Web Works| Page 7-10|
-   |2. |Intro to HTML|Chapter 1|
-   |3. |Role of HTML, CSS and Javascript in a webpage| Page 6|
-   |4. |Elements and tags||
-   |5. |\<head\> and \<body\>||
-   |6. |Structural Markup and Semantic Markup|Page 40-50|
-   |7. |Screen Readers and SEO|Page 191|
-    |8. |Lists, Link, Image| Chapter 3,4,5 complete|
-    |9. |Forms| Chapter 7 complete|
-    |10. | ID and Class Attribute|Page 183-184|
-    |11. |Block and Inline Elements|Page 185-188|
-   |12.|Adding Video and Audio to Your web Pages with HTML5|Page 214,215,217,219,220|
-   |13.|How to approach building a site / WireFrames / Designing Navigation |Chapter 18 |
-    |14.|Search Engine Optimization (SEO)| (Optional) Page 479|
+   | S.No | Topics                                                              |                          |
+   | ---- | ------------------------------------------------------------------- | ------------------------ |
+   | 1.   | How the Web Works                                                   | Page 7-10                |
+   | 2.   | Intro to HTML                                                       | Chapter 1                |
+   | 3.   | Role of HTML, CSS and Javascript in a webpage                       | Page 6                   |
+   | 4.   | Elements and tags                                                   |                          |
+   | 5.   | \<head\> and \<body\>                                               |                          |
+   | 6.   | Structural Markup and Semantic Markup                               | Page 40-50               |
+   | 7.   | Screen Readers and SEO                                              | Page 191                 |
+   | 8.   | Lists, Link, Image                                                  | Chapter 3,4,5 complete   |
+   | 9.   | Forms                                                               | Chapter 7 complete       |
+   | 10.  | ID and Class Attribute                                              | Page 183-184             |
+   | 11.  | Block and Inline Elements                                           | Page 185-188             |
+   | 12.  | Adding Video and Audio to Your web Pages with HTML5                 | Page 214,215,217,219,220 |
+   | 13.  | How to approach building a site / WireFrames / Designing Navigation | Chapter 18               |
+   | 14.  | Search Engine Optimization (SEO)                                    | (Optional) Page 479      |
 
-    Note: Flash player is outdated (some part of chapter 9)
+   Note: Flash player is outdated (some part of chapter 9)
 
 1. ### CSS 3
 
-    We will follow [this Book](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf) by Jon Duckett for CSS. Chapter 10,13 are important.
+   We will follow [this Book](<https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf>) by Jon Duckett for CSS. Chapter 10,13 are important.
 
-    CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
+   CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
 
-   |S.No |Topics||
-   |---|---------|-----|
-   |1. |Introducing CSS|Chapter 10: 226|
-    |1.|CSS Selectors|Page 237|
-    |1.|How Css Rules Cascade|Page 239|
-    |1.|Understanding Color|Chapter 11|
-    |1.|Text/typography|Chapter 12: 264|
-    |1.|Pseudo Classes|Page 290|
-    |1.|Box model (Internet Explorer 6 is no longer supported)|Chapter 13: Page 300-315|
-    |1.|Styling Lists, Tables & Forms|Chapter 14: 330|
-    |1.|**Layouts** (Controlling the position of elements) |Chapter 15: 358|
-   |1.|Overlapping Elements (z-index)|Page 369|
-   |1.|Floating Elements are deprecated| X |
-   |1.|Responsiveness| Page 377 |
-    |1.| Controlling size and Aligning images in CSS |Chapter 16 complete|
-   |1.|Flex Box (it's not covered in book so we will follow [this article by CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/))||
-   |1.|Grids (we will follow [this article by CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/))|Page 387|
+   | S.No | Topics                                                                                                                                      |                          |
+   | ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+   | 1.   | Introducing CSS                                                                                                                             | Chapter 10: 226          |
+   | 2.   | CSS Selectors                                                                                                                               | Page 237                 |
+   | 3.   | How Css Rules Cascade                                                                                                                       | Page 239                 |
+   | 4.   | Understanding Color                                                                                                                         | Chapter 11               |
+   | 5.   | Text/typography                                                                                                                             | Chapter 12: 264          |
+   | 6.   | Pseudo Classes                                                                                                                              | Page 290                 |
+   | 7.   | Box model (Internet Explorer 6 is no longer supported)                                                                                      | Chapter 13: Page 300-315 |
+   | 8.   | Styling Lists, Tables & Forms                                                                                                               | Chapter 14: 330          |
+   | 9.   | **Layouts** (Controlling the position of elements)                                                                                          | Chapter 15: 358          |
+   | 10.  | Overlapping Elements (z-index)                                                                                                              | Page 369                 |
+   | 11.  | Floating Elements are deprecated                                                                                                            | X                        |
+   | 12.  | Responsiveness                                                                                                                              | Page 377                 |
+   | 13.  | Controlling size and Aligning images in CSS                                                                                                 | Chapter 16 complete      |
+   | 14.  | Flex Box (it's not covered in book so we will follow [this article by CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)) |                          |
+   | 15.  | Grids (we will follow [this article by CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/))                               | Page 387                 |
 
 - CSS Frameworks ( Page 391 )
   - Advantage and Disadvantage
@@ -114,66 +114,70 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
   - how tailwind: [official docs](https://tailwindcss.com/docs/)
 
 1. [`JavaScript`](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR) programming fundamental (ES6+) (3 weeks)
-    |   |   |
-    | --- | --- |
-    | Variables | Number, String, Boolean, Array, Objects|
-    |Math Operators|+ - \* / % -- ++|
-    |Conditional Statements |If else, ternary operator|
-    |Conditional operators| === !== < > <= >=|
-    |Logical operators|&& &nbsp; \|\| &nbsp; !|
-    |Loop Statements |For loop, map, for in loop|
-    |ES6 functions| ()=>|
-    |Async Await||
+
+   |                        |                                         |
+   | ---------------------- | --------------------------------------- |
+   | Variables              | Number, String, Boolean, Array, Objects |
+   | Math Operators         | + - \* / % -- ++                        |
+   | Conditional Statements | If else, ternary operator               |
+   | Conditional operators  | === !== < > <= >=                       |
+   | Logical operators      | && &nbsp; \|\| &nbsp; !                 |
+   | Loop Statements        | For loop, map, for in loop              |
+   | ES6 functions          | ()=>                                    |
+   | Async Await            |                                         |
 
 1. [REST API design principles](https://www.ibm.com/topics/rest-apis)
 
-    Theory of
+   Theory of
 
-    - Rest APIs
-    - http and https
-    - What is [Stateless](https://www.interviewbit.com/blog/gradle-vs-maven/)?
-    - What is [Caching](https://aws.amazon.com/caching/)?
-    - [Micro service architecture](https://cloud.google.com/learn/what-is-microservices-architecture)
-    - [Ninon service architecture](https://techbeacon.com/app-dev-testing/nanoservices-where-they-fit-where-they-dont) (AWS Lambda)
+   - Rest APIs
+   - http and https
+   - What is [Stateless](https://www.interviewbit.com/blog/gradle-vs-maven/)?
+   - What is [Caching](https://aws.amazon.com/caching/)?
+   - [Micro service architecture](https://cloud.google.com/learn/what-is-microservices-architecture)
+   - [Ninon service architecture](https://techbeacon.com/app-dev-testing/nanoservices-where-they-fit-where-they-dont) (AWS Lambda)
 
 1. Writing JavaScript `Servers` with and `ExpressJS/NodeJS` (4 weeks)
 
-    - Introduction to Servers
-    - Express.js GET, POST, PUT, DELETE
-    - Express.js middleware
-    - Express.js Static file server
+   - Introduction to Servers
+   - Express.js GET, POST, PUT, DELETE
+   - Express.js middleware
+   - Express.js Static file server
 
 1. Hosting Node Servers
-    - [Cyclic](https://www.cyclic.sh/) (1 free app without Card)
-    - [Google App Engine](https://cloud.google.com/appengine) (Unlimited free apps with card)
+
+   - [Cyclic](https://www.cyclic.sh/) (1 free app without Card)
+   - [Google App Engine](https://cloud.google.com/appengine) (Unlimited free apps with card)
 
 1. &nbsp;[`MongoDB`](https://learn.mongodb.com/)
 
-    - Introduction to MongoDB Database
-    - SQL vs NoSQL (multi-region)
-    - Setting up Mongodb Atlas
-    - MongoDB Schema and model
-    - MongoDB CRUD Operation
+   - Introduction to MongoDB Database
+   - SQL vs NoSQL (multi-region)
+   - Setting up Mongodb Atlas
+   - MongoDB Schema and model
+   - MongoDB CRUD Operation
 
 1. [`ReactJS`](https://daveceddia.com/react-getting-started-tutorial/) Integration (2 weeks)
-    - Basic introduction to react
-    - history and introduction to React
-    - CRUD operation in ReactJs
-    - Chat app with ReactJs.
-    - React.js is not fully covered in this course!
+
+   - Basic introduction to react
+   - history and introduction to React
+   - CRUD operation in ReactJs
+   - Chat app with ReactJs.
+   - React.js is not fully covered in this course!
 
 1. Realtime operations with `Socket.IO` (4 weeks)
-    - Intent
-    - Entity
+
+   - Intent
+   - Entity
 
 1. #### PWA
 
-    - intro to manifest file
-    - intro to service worker
-    - generating those files with microsoft pwa builder
-    - adding PWA capabilities into react app such as install option
-    - building store ready .apk android app with PWA
-    - building store ready iphone app with PWA
+   - intro to manifest file
+   - intro to service worker
+   - generating those files with microsoft pwa builder
+   - adding PWA capabilities into react app such as install option
+   - building store ready .apk android app with PWA
+   - building store ready iphone app with PWA
 
 1. Introduction to the `OpenAI` Completion Model and Completion Endpoint.
 
