@@ -137,6 +137,8 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
    - [Micro service architecture](https://cloud.google.com/learn/what-is-microservices-architecture)
    - [Ninon service architecture](https://techbeacon.com/app-dev-testing/nanoservices-where-they-fit-where-they-dont) (AWS Lambda)
 
+1. Invoking APIs and [Introduction to Postman](https://github.com/vdespa/introduction-to-postman-course)
+
 1. Writing JavaScript `Servers` with and `ExpressJS/NodeJS` (4 weeks)
 
    - Introduction to Servers
