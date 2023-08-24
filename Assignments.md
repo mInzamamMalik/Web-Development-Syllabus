@@ -34,11 +34,8 @@ Remember to provide clear instructions and resources if needed, and encourage st
 
 Here are some CSS assignments that can help your students practice and improve their CSS skills:
 
-1. **Basic Styling:**
+1. [**Basic Styling:**](./CSS-Projects/01.project-basic/README.md)
    Ask students to create a simple webpage with HTML and apply various CSS styling properties such as font styles, colors, margins, paddings, and borders. The goal is to get them comfortable with the basic concepts of CSS.
-
-1. **Responsive Design:**
-   Provide a basic HTML structure and challenge students to make the page responsive using media queries. They should adjust the layout and styles based on different screen sizes.
 
 1. **Navigation Bar:**
    Task students with creating a navigation bar that includes horizontal or vertical menu items. They can practice styling the menu items, adding hover effects, and potentially implementing a responsive navigation for smaller screens.
@@ -51,6 +48,9 @@ Here are some CSS assignments that can help your students practice and improve t
 
 1. **Form Styling:**
    Provide a basic form structure and ask students to style it with CSS. They can work on designing text inputs, buttons, checkboxes, radio buttons, and select dropdowns.
+
+1. **Responsive Design:**
+   Provide a basic HTML structure and challenge students to make the page responsive using media queries. They should adjust the layout and styles based on different screen sizes.
 
 1. **CSS Transitions and Animations:**
    Challenge students to create a simple animation, such as a fading slideshow or a rotating banner, using CSS transitions and keyframe animations.

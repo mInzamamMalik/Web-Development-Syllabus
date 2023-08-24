@@ -1,0 +1,39 @@
+/* Reset default margin and padding */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Basic styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+/* Main shadow task */
+p.one {
+  background-color: #eeeeee;
+  color: #666666;
+  text-shadow: 1px 1px 0px #000000;
+}
+p.two {
+  background-color: #dddddd;
+  color: #666666;
+  text-shadow: 1px 1px 3px #666666;
+}
+p.three {
+  background-color: #cccccc;
+  color: #ffffff;
+  text-shadow: 2px 2px 7px #111111;
+}
+p.four {
+  background-color: #bbbbbb;
+  color: #cccccc;
+  text-shadow: -1px -2px #666666;
+}
+p.five {
+  background-color: #aaaaaa;
+  color: #ffffff;
+  text-shadow: -1px -1px #666666;
+}

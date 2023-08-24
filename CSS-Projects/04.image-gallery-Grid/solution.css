@@ -1,0 +1,64 @@
+/* Reset default margin and padding */
+body,
+ul,
+li,
+img {
+  margin: 0;
+  padding: 0;
+}
+
+/* Basic styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.image {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s;
+}
+
+.image:hover img {
+  transform: scale(1.1);
+}
+
+.image::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.image:hover::after {
+  opacity: 1;
+}
+
+/* In this example, we're using CSS Grid to create a responsive image gallery with three columns. Each image is wrapped in a container with the .image class, which includes the hover effects for the images. When hovering over an image, it scales up and a semi-transparent overlay appears. This creates a simple yet visually appealing hover effect for the images in the gallery.
+
+Make sure to replace the src attributes of the <img> elements with the actual paths to your images.
+
+Feel free to adjust the styling and gallery layout according to your preferences and design requirements. */
