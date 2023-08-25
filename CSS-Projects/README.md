@@ -8,7 +8,7 @@ Here are some CSS assignments that can help your students practice and improve t
 1. **Navigation Bar:**
    Task students with creating a navigation bar that includes horizontal or vertical menu items. They can practice styling the menu items, adding hover effects, and potentially implementing a responsive navigation for smaller screens.
 
-1. **Image Gallery:**
+1. [**Image Gallery:**](./04.image-gallery-Grid/README.md)
    Have students build an image gallery using CSS grid or flexbox. This assignment helps them practice layout techniques and hover effects for images.
 
 1. **Card Components:**

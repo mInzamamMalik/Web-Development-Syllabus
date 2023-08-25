@@ -1,9 +1,9 @@
 # Project 5 **Image gallery**
 
-incomplete
-<!-- 
-![task screen shot](./task3.png) -->
-<!-- 
-Task students with creating a navigation bar that includes horizontal or vertical menu items. They can practice styling the menu items, adding hover effects, and potentially implementing a responsive navigation for smaller screens.
+Have students build an image gallery using CSS grid. This assignment helps them practice layout techniques and hover effects for images.
 
-responsive -->
+![task screen shot](./task4-desktop.png)
+desktop
+
+![task screen shot](./task4-mobile.png)
+mobile
